@@ -1,6 +1,8 @@
 # battery-life-report
 Battery Life Report in Python check all about your Battery !! 
 ![Python Logo](https://raw.githubusercontent.com/willtheorangeguy/Python-Logo-Widgets/master/pythonlogogif.gif)
+### Demo
+![Screenshot (5)](https://user-images.githubusercontent.com/64314222/109410643-4436f200-79c2-11eb-9d70-b13b5d8fd347.png)
 ### Requirements
 ```
 Python3
